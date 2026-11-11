@@ -1,0 +1,31 @@
+{
+  "original_upload_files": 85,
+  "all_original_sha256_preserved": true,
+  "core_policy_texts": 67,
+  "context_policy_texts": 13,
+  "figures_reproduced": 18,
+  "all_figures_byte_identical_to_checked_version": true,
+  "runtime": "R 4.6.1 on Windows with Cairo and Times New Roman",
+  "UTF8_conversion_preserves_CSV_rows_and_values": true,
+  "source_snapshot_and_analysis_inputs_identified_separately": true,
+  "svg_sha256": {
+    "Alternative_Figure_S5_circular.svg": "75d5144656ec97bdee2c0ac6c3447e241150839c20e89240e05e1d9241ae285c",
+    "Figure_01_policy_distribution.svg": "4f45d5c19743b67229c06699e02426e58086ec01d60aa8b1eb728de39d66efcc",
+    "Figure_02_verification_chain.svg": "81955ff00e2632daad2376e65cd925e6e3e15cec532eeade7b41845b7575bb6c",
+    "Figure_03_actor_authority.svg": "10f73060b7b71e9a536c37f98ccf9a451969e6a0e8f7f9ccec8332351bcb01af",
+    "Figure_04_basis_maximum.svg": "6aba1249564d57ffb82df94da4ec7c6e5b75c8604230231edd3c941b771b51b9",
+    "Figure_05_participation_sankey.svg": "4228f88ed852cdb445859723ee844c909e8eb68092e67215a8066d32078754a6",
+    "Figure_06_local_difference.svg": "28512d20075815340464cc8cbb0f2de7d083e6c82613ce2ccd01907e0ea23561",
+    "Figure_S1_corpus_construction.svg": "1d80128bd050dbe592e0335f9adbb68bb855730fc411111b27fb168574e02b52",
+    "Figure_S2a_distribution_2011_2013.svg": "793e0a39fb551ba075a71598eb9c8340cfb0a570599fb921e19b7830772dba1b",
+    "Figure_S2b_distribution_2014_2016.svg": "7a4f2e62baeeaa1b3eabf94743df13d30219c4b4c6ae02e896bf01f9884f06cd",
+    "Figure_S2c_distribution_2017_2019.svg": "b0e0792f64923ac008d37902b9c2ffe1b9334b4b62f6a51d09ef542540c620ec",
+    "Figure_S2d_distribution_2020_2022.svg": "0c3b61c8c88472d2acdc94352d3cc42b2891212b7160ac119b4d1f02559d7728",
+    "Figure_S2e_distribution_2023_2026.svg": "3182123b3408b386d38a2666d3b4fd5921d1b7ca70cc2d47e3c2a5cd71d613e9",
+    "Figure_S3_actor_combinations.svg": "68b4a4a3a1ff327b00312921155c32d5a7646bbaa7b578a2804265905f11e083",
+    "Figure_S4_actor_basis_network.svg": "df9a6829c6e69990c1fa13104934e24a07a97221c1eb4f865cf55148171c6afd",
+    "Figure_S5_cluster_heatmap.svg": "e1d2a2dcb0a5d4d128f97825ca7f5ad3fda2a196c0fda4d76bbc22a47a639136",
+    "Figure_S6_actor_period_profiles.svg": "f1693b97178c9504a4547c5f34e2565381be4418c004b5d175294ba09ffb79ae",
+    "Figure_S7_robustness.svg": "1314c0b65a88e5f904d0d51d16207324063addaf53800960657c6201ca2ef52b"
+  }
+}

@@ -1,0 +1,24 @@
+# Generated figure and validation outputs
+/svg/
+/preview/
+/audit/
+/source_svg/
+/tables/
+/R_sessionInfo.txt
+/Figure_02_change_audit.csv
+/figure_manifest.csv
+/figure_manifest_latest.csv
+/figure_validation.json
+/figure_layout_audit.json
+/Figure_gallery.html
+/generators/*/svg/
+/generators/*/preview/
+/generators/map/*.svg
+/generators/map/*.txt
+/generators/chain/*.svg
+/generators/chain/*.txt
+/generators/advanced/R_sessionInfo.txt
+/generators/advanced/analysis_summary.md
+*.Rhistory
+.RData
+.Rproj.user/

@@ -1,0 +1,51 @@
+"id","place","dimension","dimension_label","local_score","baseline_id","baseline_score","difference"
+"L18","Beijing","REVIEW","Explicit review criteria",2,"N27",2,0
+"L18","Beijing","ORGANISER","Acceptance organiser",2,"N27",0,2
+"L18","Beijing","USERVETO","User veto power",0,"N27",0,0
+"L18","Beijing","CONSEQUENCE","Enforceable consequences",1,"N27",2,-1
+"L18","Beijing","SEPARATION","Third-party separation",0,"N27",1,-1
+"L21","Shanghai","REVIEW","Explicit review criteria",2,"N27",2,0
+"L21","Shanghai","ORGANISER","Acceptance organiser",2,"N27",0,2
+"L21","Shanghai","USERVETO","User veto power",0,"N27",0,0
+"L21","Shanghai","CONSEQUENCE","Enforceable consequences",2,"N27",2,0
+"L21","Shanghai","SEPARATION","Third-party separation",1,"N27",1,0
+"L14","Guangzhou","REVIEW","Explicit review criteria",2,"N27",2,0
+"L14","Guangzhou","ORGANISER","Acceptance organiser",1,"N27",0,1
+"L14","Guangzhou","USERVETO","User veto power",0,"N27",0,0
+"L14","Guangzhou","CONSEQUENCE","Enforceable consequences",2,"N27",2,0
+"L14","Guangzhou","SEPARATION","Third-party separation",0,"N27",1,-1
+"L17","Shenzhen","REVIEW","Explicit review criteria",0,"N27",2,-2
+"L17","Shenzhen","ORGANISER","Acceptance organiser",1,"N27",0,1
+"L17","Shenzhen","USERVETO","User veto power",0,"N27",0,0
+"L17","Shenzhen","CONSEQUENCE","Enforceable consequences",2,"N27",2,0
+"L17","Shenzhen","SEPARATION","Third-party separation",0,"N27",1,-1
+"L33","Chongqing","REVIEW","Explicit review criteria",2,"N27",2,0
+"L33","Chongqing","ORGANISER","Acceptance organiser",2,"N27",0,2
+"L33","Chongqing","USERVETO","User veto power",0,"N27",0,0
+"L33","Chongqing","CONSEQUENCE","Enforceable consequences",2,"N27",2,0
+"L33","Chongqing","SEPARATION","Third-party separation",1,"N27",1,0
+"L25","Jinan","REVIEW","Explicit review criteria",2,"N27",2,0
+"L25","Jinan","ORGANISER","Acceptance organiser",2,"N27",0,2
+"L25","Jinan","USERVETO","User veto power",0,"N27",0,0
+"L25","Jinan","CONSEQUENCE","Enforceable consequences",2,"N27",2,0
+"L25","Jinan","SEPARATION","Third-party separation",1,"N27",1,0
+"L28","Nanjing","REVIEW","Explicit review criteria",2,"N27",2,0
+"L28","Nanjing","ORGANISER","Acceptance organiser",2,"N27",0,2
+"L28","Nanjing","USERVETO","User veto power",0,"N27",0,0
+"L28","Nanjing","CONSEQUENCE","Enforceable consequences",2,"N27",2,0
+"L28","Nanjing","SEPARATION","Third-party separation",0,"N27",1,-1
+"L20","Sichuan","REVIEW","Explicit review criteria",1,"N27",2,-1
+"L20","Sichuan","ORGANISER","Acceptance organiser",2,"N27",0,2
+"L20","Sichuan","USERVETO","User veto power",0,"N27",0,0
+"L20","Sichuan","CONSEQUENCE","Enforceable consequences",1,"N27",2,-1
+"L20","Sichuan","SEPARATION","Third-party separation",0,"N27",1,-1
+"L24","Gansu","REVIEW","Explicit review criteria",0,"N27",2,-2
+"L24","Gansu","ORGANISER","Acceptance organiser",0,"N27",0,0
+"L24","Gansu","USERVETO","User veto power",0,"N27",0,0
+"L24","Gansu","CONSEQUENCE","Enforceable consequences",0,"N27",2,-2
+"L24","Gansu","SEPARATION","Third-party separation",0,"N27",1,-1
+"L26","Inner Mongolia","REVIEW","Explicit review criteria",2,"N27",2,0
+"L26","Inner Mongolia","ORGANISER","Acceptance organiser",0,"N27",0,0
+"L26","Inner Mongolia","USERVETO","User veto power",0,"N27",0,0
+"L26","Inner Mongolia","CONSEQUENCE","Enforceable consequences",2,"N27",2,0
+"L26","Inner Mongolia","SEPARATION","Third-party separation",1,"N27",1,0

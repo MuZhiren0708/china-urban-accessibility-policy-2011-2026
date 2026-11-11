@@ -1,0 +1,9 @@
+"check","value","expected","pass"
+"Primary corpus documents",59,59,TRUE
+"Strict corpus documents",56,56,TRUE
+"National documents",24,24,TRUE
+"Subnational documents",35,35,TRUE
+"Province-level units represented",24,24,TRUE
+"SVG files generated",11,11,TRUE
+"Chinese characters in visible SVG output",0,0,TRUE
+"Public final decision power count",0,0,TRUE

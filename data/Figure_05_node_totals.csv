@@ -1,0 +1,16 @@
+"column","code","n","denominator"
+"Entry","CONS",29,136
+"Entry","DES",10,136
+"Entry","TRY",25,136
+"Entry","EVAL",17,136
+"Entry","SUP",55,136
+"Downstream","SATGATE",2,136
+"Downstream","ADOPT",6,136
+"Downstream","LINK",23,136
+"Downstream","RESP",62,136
+"Downstream","NONE",43,136
+"Downstream","POWER",0,136
+"Status","QUALIFIED",2,136
+"Status","RESPONSIVE",91,136
+"Status","UNSPECIFIED",43,136
+"Status","DECISIVE",0,136

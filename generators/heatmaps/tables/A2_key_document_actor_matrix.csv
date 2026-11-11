@@ -1,0 +1,56 @@
+"id","label","actor","actor_label","score"
+"B01","Quality Regulation 279","TECH","Technical review bodies",2
+"B01","Quality Regulation 279","DEV","Project owners",2
+"B01","Quality Regulation 279","ADM","Administrative authorities",3
+"B01","Quality Regulation 279","THIRD","Third-party evaluators",3
+"B01","Quality Regulation 279","USER","Users",0
+"B02","Completion Filing Rules 78","TECH","Technical review bodies",2
+"B02","Completion Filing Rules 78","DEV","Project owners",2
+"B02","Completion Filing Rules 78","ADM","Administrative authorities",3
+"B02","Completion Filing Rules 78","THIRD","Third-party evaluators",0
+"B02","Completion Filing Rules 78","USER","Users",0
+"B03","Drawing Review Rules 13 (2018 revision)","TECH","Technical review bodies",3
+"B03","Drawing Review Rules 13 (2018 revision)","DEV","Project owners",2
+"B03","Drawing Review Rules 13 (2018 revision)","ADM","Administrative authorities",3
+"B03","Drawing Review Rules 13 (2018 revision)","THIRD","Third-party evaluators",3
+"B03","Drawing Review Rules 13 (2018 revision)","USER","Users",0
+"B04","GB 55019-2021","TECH","Technical review bodies",0
+"B04","GB 55019-2021","DEV","Project owners",2
+"B04","GB 55019-2021","ADM","Administrative authorities",0
+"B04","GB 55019-2021","THIRD","Third-party evaluators",0
+"B04","GB 55019-2021","USER","Users",0
+"N03","Accessibility Regulation 2012","TECH","Technical review bodies",0
+"N03","Accessibility Regulation 2012","DEV","Project owners",0
+"N03","Accessibility Regulation 2012","ADM","Administrative authorities",2
+"N03","Accessibility Regulation 2012","THIRD","Third-party evaluators",0
+"N03","Accessibility Regulation 2012","USER","Users",2
+"N27","Accessibility Law 2023","TECH","Technical review bodies",3
+"N27","Accessibility Law 2023","DEV","Project owners",2
+"N27","Accessibility Law 2023","ADM","Administrative authorities",3
+"N27","Accessibility Law 2023","THIRD","Third-party evaluators",2
+"N27","Accessibility Law 2023","USER","Users",2
+"N25","Model-city Assessment Rules 2022","TECH","Technical review bodies",2
+"N25","Model-city Assessment Rules 2022","DEV","Project owners",0
+"N25","Model-city Assessment Rules 2022","ADM","Administrative authorities",3
+"N25","Model-city Assessment Rules 2022","THIRD","Third-party evaluators",2
+"N25","Model-city Assessment Rules 2022","USER","Users",2
+"N28","Home-adaptation Quality Notice 2023","TECH","Technical review bodies",0
+"N28","Home-adaptation Quality Notice 2023","DEV","Project owners",0
+"N28","Home-adaptation Quality Notice 2023","ADM","Administrative authorities",2
+"N28","Home-adaptation Quality Notice 2023","THIRD","Third-party evaluators",2
+"N28","Home-adaptation Quality Notice 2023","USER","Users",1
+"N31","Urban Accessibility Notice 7 (2025)","TECH","Technical review bodies",0
+"N31","Urban Accessibility Notice 7 (2025)","DEV","Project owners",2
+"N31","Urban Accessibility Notice 7 (2025)","ADM","Administrative authorities",2
+"N31","Urban Accessibility Notice 7 (2025)","THIRD","Third-party evaluators",0
+"N31","Urban Accessibility Notice 7 (2025)","USER","Users",1
+"L14","Guangzhou 2020","TECH","Technical review bodies",3
+"L14","Guangzhou 2020","DEV","Project owners",2
+"L14","Guangzhou 2020","ADM","Administrative authorities",3
+"L14","Guangzhou 2020","THIRD","Third-party evaluators",0
+"L14","Guangzhou 2020","USER","Users",2
+"L17","Shenzhen 2021","TECH","Technical review bodies",0
+"L17","Shenzhen 2021","DEV","Project owners",2
+"L17","Shenzhen 2021","ADM","Administrative authorities",3
+"L17","Shenzhen 2021","THIRD","Third-party evaluators",0
+"L17","Shenzhen 2021","USER","Users",2

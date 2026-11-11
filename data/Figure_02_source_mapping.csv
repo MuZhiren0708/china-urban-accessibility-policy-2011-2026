@@ -1,0 +1,6 @@
+"stage","actor_or_decision_rule","user_position","source"
+"drawing_review","Review body (where required): reject non-compliant drawings","Users: design input encouraged; not a drawing-review vote","N27 Art. 15; N27 Art. 17"
+"completion_acceptance","Project owner: organize completion acceptance","Users: trial-use input encouraged; required locally for listed projects","B01 Art. 16; N27 Art. 17; L14 Art. 14; L17 Art. 17"
+"completion_filing","Filing authority: refuse filing if acceptance is absent or failed","Users: no explicit filing decision power in reviewed clauses","N27 Art. 16"
+"handover","Project owner: no handover without successful acceptance","Users: no explicit handover decision power in reviewed clauses","N27 Art. 14"
+"city_assessment","Local authority: commission third-party assessment","Residents: views and satisfaction inform model-city appraisal","N27 Art. 60; N25 model-city appraisal"

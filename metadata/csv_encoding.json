@@ -1,0 +1,30 @@
+[
+  {
+    "file": "crosswalk_map.csv",
+    "original_encoding": "gb18030",
+    "rows_excluding_header": 80,
+    "columns": 8,
+    "utf8_viewing_copy": "utf8_csv/crosswalk_map.csv"
+  },
+  {
+    "file": "manifest.csv",
+    "original_encoding": "gb18030",
+    "rows_excluding_header": 80,
+    "columns": 17,
+    "utf8_viewing_copy": "utf8_csv/manifest.csv"
+  },
+  {
+    "file": "分歧裁决清单.csv",
+    "original_encoding": "utf-8-sig",
+    "rows_excluding_header": 26,
+    "columns": 7,
+    "utf8_viewing_copy": null
+  },
+  {
+    "file": "双编码对比矩阵.csv",
+    "original_encoding": "utf-8-sig",
+    "rows_excluding_header": 66,
+    "columns": 37,
+    "utf8_viewing_copy": null
+  }
+]
